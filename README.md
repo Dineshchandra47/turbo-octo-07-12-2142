@@ -1,5 +1,5 @@
 # Assignment-1
-Assignment for practicing git commands
+Assignment for practicing git command
 
 ### Common git commands
 1.**To clone a git repository**  ----------->  git clone `url` <br>
